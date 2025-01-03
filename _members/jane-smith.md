@@ -2,7 +2,7 @@
 name: Xiaoxi Liu
 image: images/photo.jpg
 role: Graduate student, Class of 2025
-descrption: Graduate student, Class of 2025
+description: Graduate student, Class of 2025
 aliases:
   - J. Smith
   - J Smith
