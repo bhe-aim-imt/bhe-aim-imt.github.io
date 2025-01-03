@@ -7,14 +7,7 @@ aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: https://janesmith.com
-  email: tim-member@email.com
+  email: liuxx16@mail.sdu.edu.cn
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Xiaoxi Liu is expected to receive her B.S. degree in Software Engineering from the School of Software, Shandong University, Jinan, China, in June 2025. She has been accepted into the School of Medical Technology at Beijing Institute of Technology, Beijing, China, to pursue a Master's degree. Her current research interests include reinforcement learning, deep learning, and generative artificial intelligence.
