@@ -54,9 +54,10 @@
 
 .portrait-image {
   width: 170px;
+  height: 250px;
   margin-bottom: 20px;
   border-radius: 30px;
-  object-fit: contain;
+  object-fit: cover;
   box-shadow: var(--shadow);
 }
 
