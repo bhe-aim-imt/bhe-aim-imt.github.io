@@ -9,3 +9,4 @@ links:
   email: 3120242004@bit.edu.cn
 ---
 
+Ruobing Li received the B.S. degree from School of Medical Technology, Beijing Institute of Technology, Beijing, China, in 2024. She is currently pursuing the M.S. degree with the School of Medical Technology, Beijing Institute of Technology, Beijing, China. Her research interests include deep learning and generative artificial intelligence.
