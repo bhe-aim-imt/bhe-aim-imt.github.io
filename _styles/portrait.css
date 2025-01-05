@@ -52,7 +52,7 @@
 .portrait-image {
   width: 100%;
   margin-bottom: 20px;
-  border-radius: 0;
+  border-radius: 30px;
   object-fit: contain;
   box-shadow: var(--shadow);
 }
