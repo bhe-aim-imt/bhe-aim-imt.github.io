@@ -1,6 +1,6 @@
 ---
 name: Xiaoxi Liu
-image: images/photo.jpg
+image: images/lxx.jpg
 role: master
 description: Master Student, 2025
 aliases:
