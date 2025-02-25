@@ -2,6 +2,7 @@
 name: Lin Shen
 image: images/申林_博士生.jpg
 role: phd
+description: PhD Student, 2023
 aliases:
   - Lin Shen
 links:
