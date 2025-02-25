@@ -26,7 +26,6 @@ Our new paper entitled  “A First Look at Generative Artificial Intelligence ba
 
 {%
   include feature.html
-  # image="images/AFirstLook.jpg"
   link="research"
   title="Our Research"
   text=text
