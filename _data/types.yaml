@@ -3,7 +3,7 @@
 # team member roles
 
 professor:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-user-tie
   description: Professor
 
 researcher:
