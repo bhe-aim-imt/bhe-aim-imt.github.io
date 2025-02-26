@@ -14,7 +14,9 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'professor'" %}
 {% include list.html data="members" component="portrait" filter="role == 'researcher'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
-{% include list.html data="members" component="portrait" filter="role == 'master'" %}
+{% include list.html data="members" component="portrait" filter="role == 'master' and description == 'Master Student, 2023'" %}
+{% include list.html data="members" component="portrait" filter="role == 'master' and description == 'Master Student, 2024'" %}
+{% include list.html data="members" component="portrait" filter="role == 'master' and description == 'Master Student, 2025'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
