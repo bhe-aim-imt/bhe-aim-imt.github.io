@@ -49,7 +49,7 @@ Our new paper entitled  “A First Look at Generative Artificial Intelligence ba
 
 {%
   include feature.html
-  image="images/web.jpg"
+  image="images/Team.jpg"
   link="team"
   title="Our Team"
   text=text
