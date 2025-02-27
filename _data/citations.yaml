@@ -182,27 +182,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -218,30 +202,125 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1109/JBHI.2024.3487012
+  title: An On-Board Executable Multi-Feature Transfer-Enhanced Fusion Model for Three-Lead
+    EEG Sensor-Assisted Depression Diagnosis
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Fuze Tian
+  - Haojie Zhang
+  - Yang Tan
+  - Lixian Zhu
+  - Lin Shen
+  - Kun Qian
+  - Bin Hu
+  - "Bj\xF6rn W. Schuller"
+  - Yoshiharu Yamamoto
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: ''
+  link: https://doi.org/g86jh9
+  description: "The development of affective computing and medical electronic technologies\
+    \ has led to the emergence of Artificial Intelligence (AI)-based methods for the\
+    \ early detection of depression. \nHowever, previous studies have often overlooked\
+    \ the necessity for the AI-assisted diagnosis system to be wearable and accessible\
+    \ in practical scenarios for depression recognition. \nIn this work, we present\
+    \ an on-board executable multi-feature transfer-enhanced fusion model for our\
+    \ custom-designed wearable three-lead Electroencephalogram (EEG) sensor, based\
+    \ on EEG data collected from 73 depressed patients and 108 healthy controls. \n\
+    Experimental results show that the proposed model exhibits low-computational complexity\
+    \ (65.0 K parameters), promising Floating-Point Operations (FLOPs) performance\
+    \ (25.6 M), real-time processing (1.5 s/execution), and low power consumption\
+    \ (320.8 mW). \nFurthermore, it requires only 202.0 KB of Random Access Memory\
+    \ (RAM) and 279.6 KB of Read-Only Memory (ROM) when deployed on the EEG sensor.\
+    \ \nDespite its low computational and spatial complexity, the model achieves a\
+    \ notable classification accuracy of 95.2%, specificity of 94.0%, and sensitivity\
+    \ of 96.9% under independent test conditions. \nThese results underscore the potential\
+    \ of deploying the model on the wearable three-lead EEG sensor for assisting in\
+    \ the diagnosis of depression.\n"
+  image: images/JBHI_2024.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1109/TCE.2024.3514633
+  title: A First Look at Generative Artificial Intelligence Based Music Therapy for
+    Mental Disorders
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Lin Shen
+  - Haojie Zhang
+  - Cuiping Zhu
+  - Ruobing Li
+  - Kun Qian
+  - Wei Meng
+  - Fuze Tian
+  - Bin Hu
+  - "Bj\xF6rn W. Schuller"
+  - Yoshiharu Yamamoto
+  publisher: IEEE Transactions on Consumer Electronics
+  date: '2024-01-01'
+  link: https://doi.org/g86jjb
+  image: images/TCE_2024.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCSS.2023.3235079
+  title: 'Intelligent Music Intervention for Mental Disorders: Insights and Perspectives'
+  authors:
+  - Kun Qian
+  - Bjorn W. Schuller
+  - Xiaohong Guan
+  - Bin Hu
+  publisher: IEEE Transactions on Computational Social Systems
+  date: '2023-02-01'
+  link: https://doi.org/gshqt3
+  image: images/TCSS_2023.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/GCCE59613.2023.10315503
+  title: Multi-Track Music Generation with WGAN-GP and Attention Mechanisms
+  authors:
+  - Luyu Chen
+  - Lin Shen
+  - Dan Yu
+  - Zhihua Wang
+  - Kun Qian
+  - Bin Hu
+  - "Bj\xF6rn W. Schuller"
+  - Yoshiharu Yamamoto
+  publisher: 2023 IEEE 12th Global Conference on Consumer Electronics (GCCE)
+  date: '2023-10-10'
+  link: https://doi.org/g86jjc
+  image: images/GCCE_2023.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/EMBC40787.2023.10339971
+  title: How does Music Affect Your Brain? A Pilot Study on EEG and Music Features
+    for Automatic Analysis
+  authors:
+  - Gang Luo
+  - Shuting Sun
+  - Kun Qian
+  - Bin Hu
+  - "Bj\xF6rn W. Schuller"
+  - Yoshiharu Yamamoto
+  publisher: 2023 45th Annual International Conference of the IEEE Engineering in
+    Medicine &amp; Biology Society (EMBC)
+  date: '2023-07-24'
+  link: https://doi.org/g86jjd
+  image: images/EMBC_2023.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21437/Interspeech.2024-685
+  title: 'E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech
+    Emotion Recognition'
+  authors:
+  - Liuxian Ma
+  - Lin Shen
+  - Ruobing Li
+  - Haojie Zhang
+  - Kun Qian
+  - Bin Hu
+  - "Bj\xF6rn W. Schuller"
+  - Yoshiharu Yamamoto
+  publisher: Interspeech 2024
+  date: '2024-09-01'
+  link: https://doi.org/g86jjf
+  image: images/ISP_2024.jpg
   plugin: sources.py
   file: sources.yaml
