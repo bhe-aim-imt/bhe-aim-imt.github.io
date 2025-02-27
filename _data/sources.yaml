@@ -7,7 +7,6 @@
     Furthermore, it requires only 202.0 KB of Random Access Memory (RAM) and 279.6 KB of Read-Only Memory (ROM) when deployed on the EEG sensor. 
     Despite its low computational and spatial complexity, the model achieves a notable classification accuracy of 95.2%, specificity of 94.0%, and sensitivity of 96.9% under independent test conditions. 
     These results underscore the potential of deploying the model on the wearable three-lead EEG sensor for assisting in the diagnosis of depression.
-  date: 2025-01
   image: images/JBHI_2024.jpg
 
 - id: doi:10.1109/TCE.2024.3514633
