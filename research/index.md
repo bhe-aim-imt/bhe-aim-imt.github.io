@@ -11,11 +11,7 @@ Publications.
 
 {% include section.html %}
 
-## Highlighted
 
-{% include citation.html lookup="doi:10.1109/TCE.2024.3514633" style="rich" %}
-
-{% include section.html %}
 
 ## All
 
