@@ -15,7 +15,6 @@ Our new paper entitled  “A First Look at Generative Artificial Intelligence ba
 
 {%
   include button.html
-  image="images/web.jpg"
   link="research"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
@@ -27,7 +26,7 @@ Our new paper entitled  “A First Look at Generative Artificial Intelligence ba
 
 {%
   include feature.html
-  image="images/Team.jpg"
+  image="images/web.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -50,6 +49,7 @@ Our new paper entitled  “A First Look at Generative Artificial Intelligence ba
 
 {%
   include feature.html
+  image="images/Team.jpg"
   link="team"
   title="Our Team"
   text=text
