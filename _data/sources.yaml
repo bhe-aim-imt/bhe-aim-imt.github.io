@@ -1,23 +1,22 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+- id: doi: 10.1109/JBHI.2024.3487012
+  description:The development of affective computing and medical electronic technologies has led to the emergence of Artificial Intelligence (AI)-based methods for the early detection of depression. However, previous studies have often overlooked the necessity for the AI-assisted diagnosis system to be wearable and accessible in practical scenarios for depression recognition. In this work, we present an on-board executable multi-feature transfer-enhanced fusion model for our custom-designed wearable three-lead Electroencephalogram (EEG) sensor, based on EEG data collected from 73 depressed patients and 108 healthy controls. Experimental results show that the proposed model exhibits low-computational complexity (65.0 K parameters), promising Floating-Point Operations (FLOPs) performance (25.6 M), real-time processing (1.5 s/execution), and low power consumption (320.8 mW). Furthermore, it requires only 202.0 KB of Random Access Memory (RAM) and 279.6 KB of Read-Only Memory (ROM) when deployed on the EEG sensor. Despite its low computational and spatial complexity, the model achieves a notable classification accuracy of 95.2%, specificity of 94.0%, and sensitivity of 96.9% under independent test conditions. These results underscore the potential of deploying the model on the wearable three-lead EEG sensor for assisting in the diagnosis of depression.
+  date: 2025-01
+  image: images/JBHI_2024.jpg
+  
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id:  doi: 10.1109/TCE.2024.3514633
+  image: images/TCE_2024.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id:  doi: 10.1109/TCSS.2023.3235079
+  image: images/TCSS_2023.jpg
+
+- id:  doi: 10.1109/GCCE59613.2023.10315503
+  image: images/GCCE_2023.jpg
+
+- id:  doi: 10.1109/EMBC40787.2023.10339971
+  image: images/EMBC_2023.jpg
+
+- id:  doi: 10.21437/Interspeech.2024-685
+  image: images/ISP_2024.jpg
+
+
