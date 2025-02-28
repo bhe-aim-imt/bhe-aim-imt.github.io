@@ -52,7 +52,7 @@
   - "Bj\xF6rn W. Schuller"
   - Yoshiharu Yamamoto
   publisher: IEEE Transactions on Consumer Electronics
-  date: '2024-01-01'
+  date: '2024-12-01'
   link: https://doi.org/g86jjb
   image: images/TCE_2024.jpg
   plugin: sources.py
@@ -85,23 +85,6 @@
   date: '2023-10-10'
   link: https://doi.org/g86jjc
   image: images/GCCE_2023.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/EMBC40787.2023.10339971
-  title: How does Music Affect Your Brain? A Pilot Study on EEG and Music Features
-    for Automatic Analysis
-  authors:
-  - Gang Luo
-  - Shuting Sun
-  - Kun Qian
-  - Bin Hu
-  - "Bj\xF6rn W. Schuller"
-  - Yoshiharu Yamamoto
-  publisher: 2023 45th Annual International Conference of the IEEE Engineering in
-    Medicine &amp; Biology Society (EMBC)
-  date: '2023-07-24'
-  link: https://doi.org/g86jjd
-  image: images/EMBC_2023.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.21437/Interspeech.2024-685
