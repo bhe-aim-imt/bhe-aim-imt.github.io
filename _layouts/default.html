@@ -6,6 +6,15 @@
     <main>
       {% include content.html content=content %}
     </main>
+    <!-- 显示常用网站链接 -->
+    <section class="useful-links">
+      <h2>Commonly used website links</h2>
+      <ul>
+        {% for link in site.links %}
+          <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+        {% endfor %}
+      </ul>
+    </section>
     {% include footer.html %}
   </body>
 </html>
