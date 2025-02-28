@@ -523,17 +523,17 @@ His research interests include xxx.</p>
     <!-- 显示常用网站链接 -->
     <section class="useful-links">
       <h2>Commonly used website links</h2>
-      <ul>
+      <div class="link-container">
         
-          <li><a href="https://space.bilibili.com/52108001/?spm_id_from=333.999.0.0">bilibili</a></li>
+          <a href="https://space.bilibili.com/52108001/?spm_id_from=333.999.0.0" class="link-item">bilibili</a>
         
-          <li><a href="https://www.bit.edu.cn/">北京理工大学</a></li>
+          <a href="https://www.bit.edu.cn/" class="link-item">北京理工大学</a>
         
-          <li><a href="https://smt.bit.edu.cn/">北京理工大学医学技术学院</a></li>
+          <a href="https://smt.bit.edu.cn/" class="link-item">北京理工大学医学技术学院</a>
         
-          <li><a href="https://bhe-lab.org/">脑健康智能评估与干预教育部重点实验室</a></li>
+          <a href="https://bhe-lab.org/" class="link-item">脑健康智能评估与干预教育部重点实验室</a>
         
-      </ul>
+      </div>
     </section>
     
 
@@ -621,5 +621,22 @@ His research interests include xxx.</p>
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
 </footer>
 
+    <style>
+      .useful-links {
+        margin-top: 20px;
+      }
+      .link-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px; /* 链接之间的间距 */
+      }
+      .link-item {
+        color: black;
+        text-decoration: none;
+      }
+      .link-item:hover {
+        text-decoration: underline; /* 鼠标悬停时显示下划线 */
+      }
+    </style>
   </body>
 </html>
