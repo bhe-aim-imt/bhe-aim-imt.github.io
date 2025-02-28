@@ -9,12 +9,12 @@ proofer: false
 
 # site social media and other links
 links:
-  bilibili: https://space.bilibili.com/52108001/?spm_id_from=333.999.0.0
+  #bilibili: https://space.bilibili.com/52108001/?spm_id_from=333.999.0.0
   #orcid: 0000-0001-8713-9213
   #google-scholar: ETJoidYAAAAJ
   #github: bhe-aim-imt
   #twitter: bhe-aim-imt
-  #youtube: bhe-aim-imt
+  youtube: https://space.bilibili.com/52108001/?spm_id_from=333.999.0.0
 
 ### jekyll settings
 
