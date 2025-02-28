@@ -54,6 +54,24 @@
   publisher: IEEE Transactions on Consumer Electronics
   date: '2024-12-01'
   link: https://doi.org/g86jjb
+  description: "Mental disorders show a rapid increase and cause considerable harm\
+    \ to individuals as well as the society in recent decade. \nHence, mental disorders\
+    \ have become a serious public health challenge in nowadays society. \nTimely\
+    \ treatment of mental disorders plays a critical role for reducing the harm of\
+    \ mental illness to individuals and society. \nMusic therapy is a type of non-pharmaceutical\
+    \ method in treating such mental disorders. \nHowever, conventional music therapy\
+    \ suffers from a number of issues resulting in a lack of popularity. \nThanks\
+    \ to the rapid development of Artificial Intelligence (AI), especially the AI\
+    \ Generated Content (AIGC), it provides a chance to address these issues. Nevertheless,\
+    \ to the best of our knowledge, there is no work investigating music therapy from\
+    \ AIGC and closed-loop perspective. \nIn this paper, we summarise some universal\
+    \ music therapy methods and discuss their shortages. Then, we indicate some AIGC\
+    \ techniques, especially the music generation, for their application in music\
+    \ therapy. \nMoreover, we present a closed-loop music therapy system and introduce\
+    \ its implementation details. \nFinally, we discuss some challenges in AIGC-based\
+    \ music therapy with proposing further research direction, and we suggest the\
+    \ potential of this system to become a consumer-grade product for treating mental\
+    \ disorders.\n"
   image: images/TCE_2024.jpg
   plugin: sources.py
   file: sources.yaml
@@ -67,6 +85,10 @@
   publisher: IEEE Transactions on Computational Social Systems
   date: '2023-02-01'
   link: https://doi.org/gshqt3
+  description: "Welcome to the first issue of IEEE Transactions on Computational Social\
+    \ Systems (TCSS) of 2023. \nThe past 2022 was again a very productive year, in\
+    \ which we have published 159 articles with about 1850 pages in six issues. \n\
+    We also received much great and exciting news.\n"
   image: images/TCSS_2023.jpg
   plugin: sources.py
   file: sources.yaml
@@ -84,6 +106,16 @@
   publisher: 2023 IEEE 12th Global Conference on Consumer Electronics (GCCE)
   date: '2023-10-10'
   link: https://doi.org/g86jjc
+  description: "Music generation with artificial intelligence is a complex and captivating\
+    \ task. \nThe utilisation of generative adversarial networks (GANs) has exhibited\
+    \ promising outcomes in producing realistic and diverse music compositions. \n\
+    In this paper, we propose a model based on Wasserstein GAN with gradient penalty\
+    \ (WGAN-GP) for multi-track music generation. \nThis model incorporates self-attention\
+    \ and introduces a novel cross-attention mechanism in the generator to enhance\
+    \ its expressive capability. \nAdditionally, we transpose all music to C major\
+    \ in training to ensure data consistency and quality. \nExperimental results demonstrate\
+    \ that our model can produce multi-track music with enhanced rhythm and sound\
+    \ characteristics, accelerate convergence, and improve generation quality.\n"
   image: images/GCCE_2023.jpg
   plugin: sources.py
   file: sources.yaml
@@ -102,6 +134,19 @@
   publisher: Interspeech 2024
   date: '2024-09-01'
   link: https://doi.org/g86jjf
+  description: "Recognising the widest range of emotions possible is a major challenge\
+    \ in the task of Speech Emotion Recognition(SER), especially for complex and mixed\
+    \ emotions. \nHowever, due to the limited number of emotional types and uneven\
+    \ distribution of data within existing datasets, current SER models are typically\
+    \ trained and used in a narrow range of emotional types. \nIn this paper, we propose\
+    \ the Emotion Open Deep Network(E-ODN) model to address this issue. \nBesides,\
+    \ we introduce a novel Open-Set Recognition method that maps sample emotional\
+    \ features into a three-dimensional emotional space. \nThe method can infer unknown\
+    \ emotions and initialise new type weights, enabling the model to dynamically\
+    \ learn and infer emerging emotional types. \nThe empirical results show that\
+    \ our recognition model outperforms the state-of-the-art(SOTA) models in dealing\
+    \ with multi-type unbalanced data, and it can also perform finer-grained emotion\
+    \ recognition.\n"
   image: images/ISP_2024.jpg
   plugin: sources.py
   file: sources.yaml
