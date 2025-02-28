@@ -9,12 +9,29 @@
     <!-- 显示常用网站链接 -->
     <section class="useful-links">
       <h2>Commonly used website links</h2>
-      <ul>
+      <div class="link-container">
         {% for link in site.links %}
-          <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+          <a href="{{ link[1] }}" class="link-item">{{ link[0] }}</a>
         {% endfor %}
-      </ul>
+      </div>
     </section>
     {% include footer.html %}
+    <style>
+      .useful-links {
+        margin-top: 20px;
+      }
+      .link-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px; /* 链接之间的间距 */
+      }
+      .link-item {
+        color: black;
+        text-decoration: none;
+      }
+      .link-item:hover {
+        text-decoration: underline; /* 鼠标悬停时显示下划线 */
+      }
+    </style>
   </body>
 </html>
