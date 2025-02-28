@@ -11,15 +11,13 @@
 
 - id: doi:10.1109/TCE.2024.3514633
   image: images/TCE_2024.jpg
+  date: 2024-12-1
 
 - id: doi:10.1109/TCSS.2023.3235079
   image: images/TCSS_2023.jpg
 
 - id: doi:10.1109/GCCE59613.2023.10315503
   image: images/GCCE_2023.jpg
-
-- id: doi:10.1109/EMBC40787.2023.10339971
-  image: images/EMBC_2023.jpg
 
 - id: doi:10.21437/Interspeech.2024-685
   image: images/ISP_2024.jpg
