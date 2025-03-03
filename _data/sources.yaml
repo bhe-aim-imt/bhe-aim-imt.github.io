@@ -49,3 +49,5 @@
     The method can infer unknown emotions and initialise new type weights, enabling the model to dynamically learn and infer emerging emotional types. 
     The empirical results show that our recognition model outperforms the state-of-the-art(SOTA) models in dealing with multi-type unbalanced data, and it can also perform finer-grained emotion recognition.
   image: images/ISP_2024.jpg
+
+- id: doi:10.1109/TMC.2025.3547842
