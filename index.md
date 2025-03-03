@@ -11,7 +11,7 @@ Welcome to bhe-aim-imt website! Relying on The Key Laboratory of Brain Health In
 
 {% capture text %}
 
-Our new paper entitled  “A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders” has been accepted by the IEEE Transactions on Consumer Electronics (IF-2023: 4.3).
+Our new paper entitled “An AI-assisted All-in-one Integrated Coronary Artery Disease Diagnosis System Using a Portable Heart Sound Sensor with an On-board Executable Lightweight Model” has been accepted by the IEEE Transactions on Mobile Computing (IF-2023: 7.7).
 
 {%
   include button.html
