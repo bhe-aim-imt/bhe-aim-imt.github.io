@@ -51,3 +51,11 @@
   image: images/ISP_2024.jpg
 
 # - id: doi:10.1109/TMC.2025.3547842
+
+
+- id: doi:10.1109/EMBC40787.2023.10340710
+  description: |
+    Cardiovascular diseases (CVDs) are the leading cause of death globally. Heart sound signal analysis plays an important role in clinical detection and physical examination of CVDs. In recent years, auxiliary diagnosis technology of CVDs based on the detection of heart sound signals has become a research hotspot. The detection of abnormal heart sounds can provide important clinical information to help doctors diagnose and treat heart disease. We propose a new set of fractal features-fractal dimension (FD)-as the representation for classification and a Support Vector Machine (SVM) as the classification model. The whole process of the method includes cutting heart sounds, feature extraction, and classification of abnormal heart sounds. We compare the classification results of the heart sound waveform (time domain) and the spectrum (frequency domain) based on fractal features. Finally, according to the better classification results, we choose the fractal features that are most conducive for classification to obtain better classification performance. The features we propose outperform the widely used features significantly (p < .05 by one-tailed z-test) with a much lower dimension. Clinical relevance-The heart sound classification model based on fractal provides a new time-frequency analysis method for heart sound signals. A new effective mechanism is proposed to explore the relationship between the heart sound acoustic properties and the pathology of CVDs. As a non-invasive diagnostic method, this work could supply an idea for the preliminary screening of cardiac abnormalities through heart sounds.
+  image: images/EMBC_2023_zhu.jpg
+  
+
