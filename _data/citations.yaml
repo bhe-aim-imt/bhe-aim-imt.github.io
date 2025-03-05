@@ -150,6 +150,47 @@
   image: images/ISP_2024.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/TMC.2025.3547842
+  title: An AI-assisted All-in-one Integrated Coronary Artery Disease Diagnosis System
+    Using a Portable Heart Sound Sensor with an On-board Executable Lightweight Model
+  authors:
+  - Haojie Zhang
+  - Fuze Tian
+  - Yang Tan
+  - Lin Shen
+  - Jingyu Liu
+  - Jie Liu
+  - Kun Qian
+  - Yalei Han
+  - Gong Su
+  - Bin Hu
+  - "Bj\xF6rn W. Schuller"
+  - Yoshiharu Yamamoto
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2025-01-01'
+  link: https://doi.org/g864n5
+  description: 'Heart sounds play a crucial role in assessing Coronary Artery Disease
+    (CAD). The advancement of Artificial Intelligence (AI) technologies has given
+    rise to Computer Audition (CA)-based methods for CAD detection. However, previous
+    research has focused primarily on analyzing and modeling heart sound data, overlooking
+    practical application scenarios. In this work, we design a pervasive heart sound
+    collection device used for high-quality heart sound data acquisition. Moreover,
+    we introduce an on-board executable lightweight network tailored for the designed
+    portable device, referred to as TYKDModel. Further, heart sound data from 41 CAD
+    patients and 22 non-CAD healthy controls are collected using the developed device.
+    Experimental results show that the TYKDModel exhibits low-computational complexity,
+    with 52.16 K parameters and 5.03 M Floating-Point Operations (FLOPs). When deployed
+    on the board, it requires only 1.10 MB of Random Access Memory (RAM) and 236.27
+    KB of Read-Only Memory (ROM), and takes around 1.72 seconds to perform a classification.
+    Despite the low computational and spatial complexity, the TYKDModel achieves a
+    notable classification accuracy of 85.2%, specificity of 88.6%, and sensitivity
+    of 82.8% on the board. These results indicate the promising potential of AI-assisted
+    all-in-one integrated system for the diagnosis of heart sound-assisted CAD.
+
+    '
+  image: images/TMC_2025.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/EMBC40787.2023.10340710
   title: 'Less is More: A Novel Feature Extraction Method for Heart Sound Classification
     via Fractal Transformation'
