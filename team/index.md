@@ -9,13 +9,11 @@ nav:
 
 {% include section.html %}
 
-
 {% include list.html data="members" component="portrait" filter="role == 'professor'" %}
-
+{% include list.html data="members" component="portrait" filter="role =='researcher'" %}
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role =='researcher'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2023'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2024'" %}
 {% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2023'" %}
