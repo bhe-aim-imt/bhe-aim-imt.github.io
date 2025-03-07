@@ -9,9 +9,9 @@ nav:
 
 {% include section.html %}
 
-{% capture content %}
+
 {% include list.html data="members" component="portrait" filter="role == 'professor'" %}
-{% endcapture %}
+
 
 {% include section.html %}
 
