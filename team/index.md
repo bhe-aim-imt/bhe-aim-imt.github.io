@@ -26,6 +26,8 @@ nav:
 {% include section.html background="images/background.jpg" dark=true %}
 
 {% include section.html %}
+<hr>
+<p>毕业生</p>
 
 {% capture content %}
 {% include figure.html image="images/photo.jpg" %}
