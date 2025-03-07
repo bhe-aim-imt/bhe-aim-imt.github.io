@@ -9,12 +9,11 @@ nav:
 
 {% include section.html %}
 
-{% capture professor_content %}
+{% capture content %}
 {% include list.html data="members" component="portrait" filter="role == 'professor'" %}
 {% endcapture %}
 
 {% include section.html %}
-{{ professor_content }}
 
 {% include list.html data="members" component="portrait" filter="role =='researcher'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2023'" %}
