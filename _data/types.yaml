@@ -8,7 +8,7 @@ professor:
 
 researcher:
   icon: fa-solid fa-glasses
-  description: Researcher
+  description: Reasearch Professor
 
 phd:
   icon: fa-solid fa-graduation-cap
