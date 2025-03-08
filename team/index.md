@@ -26,6 +26,7 @@ nav:
 
 {% include section.html %}
 <hr>
+<h2>Graduate</h2>
 
 {% capture content %}
 {% include figure.html image="images/photo.jpg" %}
