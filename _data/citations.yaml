@@ -430,14 +430,3 @@
   image: images/tian_5.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/HCTP.1994.721286
-  title: Magnetic Resonance Imaging As A Case Study Of Cost Factors In High Technology
-    Health Care Delivery
-  authors:
-  - L. Kaufman
-  publisher: 'Health Care Technology Policy I: The Role of Technology in the Cost
-    of Health Care'
-  date: ''
-  link: https://doi.org/fs383c
-  plugin: sources.py
-  file: sources.yaml
