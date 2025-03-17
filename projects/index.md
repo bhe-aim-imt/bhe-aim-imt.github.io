@@ -5,7 +5,7 @@ nav:
   tooltip: Projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# Projects
 
 ## Projects
 <ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
