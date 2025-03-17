@@ -426,6 +426,84 @@
 
   
 
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -575,19 +653,19 @@
     
       
         <a
-          href="/"
+          href="/projects/"
           data-tooltip="Software, datasets, and more"
         >
-          Thesis
+          Projects
         </a>
       
     
       
         <a
-          href="/projects/"
+          href="/"
           data-tooltip="Software, datasets, and more"
         >
-          Projects
+          Thesis
         </a>
       
     
