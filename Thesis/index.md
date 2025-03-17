@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Thesis
 
 ## In-Progress Thesis(进行中的学术论文)
 <ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
