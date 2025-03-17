@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-dark="false">
   <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <!--
   put your analytics (e.g. Google Analytics) tracking code here
 -->
@@ -86,200 +85,379 @@
 <!-- automatically get url from fonts used in theme file -->
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<link
+  href="https://use.fontawesome.com/releases/v6.5.0/css/all.css"
+  rel="stylesheet"
+  media="none"
+  onload="this.removeAttribute('media'); this.onload = null;"
+/>
 <noscript>
   <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
 <!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
-<link href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css" rel="stylesheet">
+<link 
+  href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css"
+  rel="stylesheet"
+/>
 
 <!-- include all sass in styles folder -->
 
 
   
-    <link href="/_styles/-theme.css" rel="stylesheet">
+    <link
+      href="/_styles/-theme.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/alert.css" rel="stylesheet">
+    <link
+      href="/_styles/alert.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/all.css" rel="stylesheet">
+    <link
+      href="/_styles/all.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/anchor.css" rel="stylesheet">
+    <link
+      href="/_styles/anchor.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/background.css" rel="stylesheet">
+    <link
+      href="/_styles/background.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/body.css" rel="stylesheet">
+    <link
+      href="/_styles/body.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/bold.css" rel="stylesheet">
+    <link
+      href="/_styles/bold.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/button.css" rel="stylesheet">
+    <link
+      href="/_styles/button.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/card.css" rel="stylesheet">
+    <link
+      href="/_styles/card.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/checkbox.css" rel="stylesheet">
+    <link
+      href="/_styles/checkbox.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/citation.css" rel="stylesheet">
+    <link
+      href="/_styles/citation.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/code.css" rel="stylesheet">
+    <link
+      href="/_styles/code.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/cols.css" rel="stylesheet">
+    <link
+      href="/_styles/cols.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/dark-toggle.css" rel="stylesheet">
+    <link
+      href="/_styles/dark-toggle.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/details.css" rel="stylesheet">
+    <link
+      href="/_styles/details.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/feature.css" rel="stylesheet">
+    <link
+      href="/_styles/feature.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/figure.css" rel="stylesheet">
+    <link
+      href="/_styles/figure.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/float.css" rel="stylesheet">
+    <link
+      href="/_styles/float.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/font.css" rel="stylesheet">
+    <link
+      href="/_styles/font.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/footer.css" rel="stylesheet">
+    <link
+      href="/_styles/footer.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/form.css" rel="stylesheet">
+    <link
+      href="/_styles/form.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/grid.css" rel="stylesheet">
+    <link
+      href="/_styles/grid.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/header.css" rel="stylesheet">
+    <link
+      href="/_styles/header.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/heading.css" rel="stylesheet">
+    <link
+      href="/_styles/heading.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/highlight.css" rel="stylesheet">
+    <link
+      href="/_styles/highlight.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/icon.css" rel="stylesheet">
+    <link
+      href="/_styles/icon.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/image.css" rel="stylesheet">
+    <link
+      href="/_styles/image.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/link.css" rel="stylesheet">
+    <link
+      href="/_styles/link.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/list.css" rel="stylesheet">
+    <link
+      href="/_styles/list.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/main.css" rel="stylesheet">
+    <link
+      href="/_styles/main.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/paragraph.css" rel="stylesheet">
+    <link
+      href="/_styles/paragraph.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/portrait.css" rel="stylesheet">
+    <link
+      href="/_styles/portrait.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/post-excerpt.css" rel="stylesheet">
+    <link
+      href="/_styles/post-excerpt.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/post-info.css" rel="stylesheet">
+    <link
+      href="/_styles/post-info.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/post-nav.css" rel="stylesheet">
+    <link
+      href="/_styles/post-nav.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/quote.css" rel="stylesheet">
+    <link
+      href="/_styles/quote.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/rule.css" rel="stylesheet">
+    <link
+      href="/_styles/rule.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/search-box.css" rel="stylesheet">
+    <link
+      href="/_styles/search-box.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/search-info.css" rel="stylesheet">
+    <link
+      href="/_styles/search-info.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/section.css" rel="stylesheet">
+    <link
+      href="/_styles/section.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/table.css" rel="stylesheet">
+    <link
+      href="/_styles/table.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/tags.css" rel="stylesheet">
+    <link
+      href="/_styles/tags.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/textbox.css" rel="stylesheet">
+    <link
+      href="/_styles/textbox.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/tooltip.css" rel="stylesheet">
+    <link
+      href="/_styles/tooltip.css"
+      rel="stylesheet"
+    />
   
 
   
-    <link href="/_styles/util.css" rel="stylesheet">
+    <link
+      href="/_styles/util.css"
+      rel="stylesheet"
+    />
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
   
 
   
@@ -375,12 +553,19 @@
 
 
 
-<header class="background" style="--image: url('/images/background_brain.jpg')" data-dark="true">
+<header
+  class="background"
+  style="--image: url('/images/background_brain.jpg')"
+  
+    data-dark="true"
+  
+  
+>
   <a href="/" class="home">
     
       <span class="logo">
         
-          <svg xmlns="http://www.w3.org/2000/svg" viewbox="-40 -60 80 100">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 -60 80 100">
   <style>
     .bubble {
       animation: float 2s ease-out both infinite var(--delay);
@@ -403,11 +588,13 @@
     }
   </style>
   <g fill="currentColor" opacity="0.5">
-    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.1s"></circle>
-    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.4s"></circle>
-    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 1.1s"></circle>
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.1s" />
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.4s" />
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 1.1s" />
   </g>
-  <path fill="#38bdf8" d="
+  <path
+    fill="#38bdf8"
+    d="
       M 0 -22.5
       L -19.5 -11.25
       L -19.5 11.25
@@ -415,15 +602,23 @@
       L 19.5 11.25
       L 19.5 -11.25
       z
-    "></path>
-  <path fill="#bae6fd" d="
+    "
+  />
+  <path
+    fill="#bae6fd"
+    d="
       M 0 -22.5
       L -19.5 -11.25
       L 0 0
       L 19.5 -11.25
       z
-    "></path>
-  <path fill="none" stroke="currentColor" stroke-width="5" d="
+    "
+  />
+  <path
+    fill="none"
+    stroke="currentColor"
+    stroke-width="5"
+    d="
       M -18 -53
       L -10 -53
       L -10 -29.2
@@ -435,7 +630,8 @@
       L 10 -29.2
       L 10 -53
       L 18 -53
-    "></path>
+    "
+  />
 </svg>
 
         
@@ -457,31 +653,46 @@
     
     
       
-        <a href="/research/" data-tooltip="Published works">
+        <a
+          href="/research/"
+          data-tooltip="Published works"
+        >
           Research
         </a>
       
     
       
-        <a href="/team/" data-tooltip="About our team">
+        <a
+          href="/team/"
+          data-tooltip="About our team"
+        >
           Team
         </a>
       
     
       
-        <a href="/projects/" data-tooltip="Projects">
+        <a
+          href="/projects/"
+          data-tooltip="Projects"
+        >
           Projects
         </a>
       
     
       
-        <a href="/Thesis/" data-tooltip="In-Progress Thesis and Completed Thesis">
+        <a
+          href="/"
+          data-tooltip="Software, datasets, and more"
+        >
           Thesis
         </a>
       
     
       
-        <a href="/" data-tooltip="Software, datasets, and more">
+        <a
+          href="/Thesis/"
+          data-tooltip="In-Progress Thesis and Completed Thesis"
+        >
           Thesis
         </a>
       
@@ -506,8 +717,13 @@
   
   
 
-  <section class="background" data-size="page">
-    <h2 id="in-progress-thesis">In-Progress Thesis</h2>
+  <section
+    class="background"
+    data-size="page"
+    
+    
+  >
+    ## In-Progress Thesis
 <ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
   <li style="margin-bottom: 15px; line-height: 1.5;">Lin SHEN, Doctoral Thesis (09/2023-06/2027, Beijing Institute of Technology, China): Intelligent Audio Therapy for Mental Disorders</li>
   <li style="margin-bottom: 15px; line-height: 1.5;">Cuiping ZHU, Master Thesis (09/2023-06/2026, Beijing Institute of Technology, China): Deep Self-learning for Body Sound Classification</li>
@@ -518,7 +734,7 @@
   <li style="margin-bottom: 15px; line-height: 1.5;">Kangya Wang, Bachelor Thesis(09/2024-06/2025, Beijing Institute of Technology, China): The Research on EEG-based Emotion Recognition via Contrastive Learning</li>
 </ol>
 
-<h2 id="completed-thesis">Completed Thesis</h2>
+## Completed Thesis
 <ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
   <li style="margin-bottom: 15px; line-height: 1.5;">Haojie ZHANG, Bachelor Thesis(09/2022-06/2023, Beijing Institute of Technology, China): The Study on Automatic Audio Generation based on Recurrent Neural Networks.</li>
   <li style="margin-bottom: 15px; line-height: 1.5;">Ruobing Li, Bachelor Thesis(09/2023-06/2024, Beijing Institute of Technology, China): The Study on Unsupervised Emotional Speech Synthesis via Transfer Learning."</li>
@@ -545,7 +761,14 @@
     
 
 
-<footer class="background" style="--image: url('/images/background.jpg')" data-dark="true" data-size="wide">
+<footer
+  class="background"
+  style="--image: url('/images/background.jpg')"
+  
+    data-dark="true"
+  
+  data-size="wide"
+>
   <!--
     <div>
       Extra details like contact info or address
@@ -561,7 +784,14 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://space.bilibili.com/52108001/?spm_id_from=333.999.0.0" data-style="bare" aria-label="button">
+    <a
+      class="button"
+      href="https://space.bilibili.com/52108001/?spm_id_from=333.999.0.0"
+      
+      data-style="bare"
+      
+      aria-label="button"
+    >
       
       
     </a>
@@ -576,7 +806,14 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://www.bit.edu.cn/" data-style="bare" aria-label="button">
+    <a
+      class="button"
+      href="https://www.bit.edu.cn/"
+      
+      data-style="bare"
+      
+      aria-label="button"
+    >
       
       
     </a>
@@ -591,7 +828,14 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://smt.bit.edu.cn/" data-style="bare" aria-label="button">
+    <a
+      class="button"
+      href="https://smt.bit.edu.cn/"
+      
+      data-style="bare"
+      
+      aria-label="button"
+    >
       
       
     </a>
@@ -606,7 +850,14 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://bhe-lab.org/" data-style="bare" aria-label="button">
+    <a
+      class="button"
+      href="https://bhe-lab.org/"
+      
+      data-style="bare"
+      
+      aria-label="button"
+    >
       
       
     </a>
@@ -617,15 +868,21 @@
   </div>
 
   <div>
-    © 2025
+    &copy; 2025
     BHE-AIM-IMT
-      |   Built with
+    &nbsp; | &nbsp; Built with
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
     </a>
   </div>
 
-  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+  <input
+    type="checkbox"
+    class="dark-toggle"
+    data-tooltip="Dark mode"
+    aria-label="toggle dark mode"
+    oninput="onDarkToggleChange(event)"
+  >
 </footer>
 
     <style>
