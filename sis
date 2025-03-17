@@ -653,6 +653,15 @@
     
       
         <a
+          href="/team/"
+          data-tooltip="About our team"
+        >
+          Team
+        </a>
+      
+    
+      
+        <a
           href="/projects/"
           data-tooltip="Projects"
         >
@@ -675,15 +684,6 @@
           data-tooltip="Software, datasets, and more"
         >
           Thesis
-        </a>
-      
-    
-      
-        <a
-          href="/team/"
-          data-tooltip="About our team"
-        >
-          Team
         </a>
       
     
