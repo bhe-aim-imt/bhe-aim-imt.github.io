@@ -9,7 +9,7 @@ nav:
   tooltip: In-Progress Thesis and Completed Thesis 
 ---
 
-# Thesis
+
 
 ## In-Progress Thesis
 <ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
