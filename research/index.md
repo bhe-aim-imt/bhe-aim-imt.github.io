@@ -6,7 +6,6 @@ nav:
 ---
 
 
-# Research
 
 {% include section.html %}
 
