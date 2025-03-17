@@ -662,6 +662,15 @@
     
       
         <a
+          href="/Thesis/"
+          data-tooltip="Software, datasets, and more"
+        >
+          Thesis
+        </a>
+      
+    
+      
+        <a
           href="/"
           data-tooltip="Software, datasets, and more"
         >
