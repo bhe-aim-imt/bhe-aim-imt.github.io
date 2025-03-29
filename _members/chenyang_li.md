@@ -8,4 +8,4 @@ aliases:
 links:
   email: 3220241500@bit.edu.cn
 ---
-Chenyang Li received the B.S. degree from School of xx, Central South University, Changsha, China, in 2024. She is currently pursuing the M.S. degree with the School of Medical Technology, Beijing Institute of Technology, Zhuhai, China. Her research interests include xx.
+Chenyang Li received the B.S. degree from School of Computer Science, Central South University, Changsha, China, in 2023. She is currently pursuing the M.S. degree with the School of Medical Technology, Beijing Institute of Technology, Zhuhai, China. Her research interests include EEG data augmentation, EEG data emotion classification, and more.
