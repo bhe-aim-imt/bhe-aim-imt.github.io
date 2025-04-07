@@ -11,7 +11,7 @@ Welcome to bhe-aim-imt website! Relying on The Key Laboratory of Brain Health In
 
 {% capture text %}
 
-Our new paper entitled “An AI-assisted All-in-one Integrated Coronary Artery Disease Diagnosis System Using a Portable Heart Sound Sensor with an On-board Executable Lightweight Model” has been accepted by the IEEE Transactions on Mobile Computing (IF-2023: 7.7).
+Our new paper entitled “Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-based Closed-Loop Music Intervention System” has been accepted and published online by the IEEE Transactions on Affective Computing (IF-2023: 9.6).
 
 {%
   include button.html
