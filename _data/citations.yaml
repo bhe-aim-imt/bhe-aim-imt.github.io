@@ -386,7 +386,7 @@
   image: images/tian_5.jpg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/TAFFC.2025.3557873
+- id: doi:10.1109/TAFFC.2025.3557873
   title: 'Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-based
     Closed-Loop Music Intervention System'
   authors:
