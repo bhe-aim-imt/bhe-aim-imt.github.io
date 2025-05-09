@@ -28,7 +28,7 @@
 
 - 1、左上角加号新建文件夹，bhe-aim-imt.github.io/输入devices，打一个斜杠再输入index.md，在下面输入框中输入以下内容
 
-- ![教程图1](images/教程图1.png)
+  ![教程图1](images/教程图1.png)
 
 ```html
 ---
@@ -40,7 +40,15 @@ nav:
 
 <ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
   <li style="margin-bottom: 15px; line-height: 1.5;">便携式光电双模精神健康智能诊疗系统</li>
-  ![便携式光电双模精神健康智能诊疗系统](images/便携式光电双模精神健康智能诊疗系统.jpg)
+
+ # 放图片方法一：简单放图片上去
+  ![便携式光电双模精神健康智能诊疗系统](../images/便携式光电双模精神健康智能诊疗系统.jpg)
+
+ # 放图片方法二：如果要缩放图片，用下面这三行，修改style="width:60%
+<div style="text-align:center;">
+    <img src="../images/便携式光电双模精神健康智能诊疗系统.jpg" alt="便携式光电双模精神健康智能诊疗系统" style="width:60%;">
+  </div>
+
   <li style="margin-bottom: 15px; line-height: 1.5;"> 便携式光电双模精神健康智能诊疗系统</li>
 </ol>
 ```
@@ -57,6 +65,8 @@ nav:
     -> font-family: Arial, sans-serif 则指定列表文字的字体为 Arial 或系统默认的 sans-serif 字体
     -> style 属性设置了 margin-bottom: 15px 即列表项底部外边距为 15 像素
     -> line-height: 1.5 表示行高为 1.5 倍字体高度，“光电精神状态评估和闭环干预系统” 是该列表项的文本内容。
-    -> 放图片： ![便携式光电双模精神健康智能诊疗系统](images/便携式光电双模精神健康智能诊疗系统.jpg)，要和前后的文字空一行，下面有下划线才说明是图片，不然会被识别成文字
-
+    -> 放图片： （有两种方法，写在上面代码的注释里了）
+      - **注意！**，注意图片位置和你当前md文件位置的关系，如果当前文件不在最外面，记得前面加'../'返回上一级目录。
+        - 举例：本md文件在最外面，和images文件夹并列，可直接写![教程图1](images/教程图1.png)
+        - 如果是devices文件夹中的md文件，需要写![教程图1](../images/教程图1.png)
   
