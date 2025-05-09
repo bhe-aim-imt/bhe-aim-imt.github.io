@@ -427,3 +427,104 @@
   image: images/TAFFC_2025.jpg
   plugin: sources.py
   file: sources.yaml
+- description: ''
+  "Early Access\uFF1AExploring the Alleviating Effects of taVNS on Negative Emotions": An
+    EEG Study doi:10.1109/TCSS.2025.3564035
+  plugin: sources.py
+  file: sources.yaml
+- description: "Early Access\uFF1AMDH-NAS: Accelerating EEG Signal Classification\
+    \ with Mixed-Level Differentiable and Hardware-Aware Neural Architecture Search\
+    \ doi:10.1109/JIOT.2025.3553450\n"
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TNSRE.2025.3557275
+  title: Explainable Depression Classification Based on EEG Feature Selection From
+    Audio Stimuli
+  authors:
+  - Lixian Zhu
+  - Rui Wang
+  - Xiaokun Jin
+  - Yuwen Li
+  - Fuze Tian
+  - Ran Cai
+  - Kun Qian
+  - Xiping Hu
+  - Bin Hu
+  - Yoshiharu Yamamoto
+  - "Bj\xF6rn W. Schuller"
+  publisher: IEEE Transactions on Neural Systems and Rehabilitation Engineering
+  date: '2025-01-01'
+  link: https://doi.org/g9hvd2
+  description: "With the development of affective computing and Artificial Intelligence\
+    \ (AI) technologies, Electroencephalogram (EEG)-based depression detection methods\
+    \ have been widely proposed. However, existing studies have mostly focused on\
+    \ the accuracy of depression recognition, ignoring the association between features\
+    \ and models. Additionally, there is a lack of research on the contribution of\
+    \ different features to depression recognition. To this end, this study introduces\
+    \ an innovative approach to depression detection using EEG data, integrating Ant-Lion\
+    \ Optimization (ALO) and Multi-Agent Reinforcement Learning (MARL) for feature\
+    \ fusion analysis. The inclusion of Explainable Artificial Intelligence (XAI)\
+    \ methods enhances the explainability of the model\u2019s features. The Time-Delay\
+    \ Embedded Hidden Markov Model (TDE-HMM) is employed to infer internal brain states\
+    \ during depression, triggered by audio stimulation. The ALO-MARL algorithm, combined\
+    \ with hyper-parameter optimization of the XGBoost classifier, achieves high accuracy\
+    \ (93.69%), sensitivity (88.60%), specificity (97.08%), and F1-score (91.82%)\
+    \ on a auditory stimulus-evoked three-channel EEG dataset. The results suggest\
+    \ that this approach outperforms state-of-the-art feature selection methods for\
+    \ depression recognition on this dataset, and XAI elucidates the critical impact\
+    \ of the minimum value of Power Spectral Density (PSD), Sample Entropy (SampEn),\
+    \ and R\xE9nyi Entropy (Ren) on depression recognition. The study also explores\
+    \ dynamic brain state transitions revealed by audio stimuli, providing insights\
+    \ for the clinical application of AI algorithms in depression recognition.\n"
+  image: images/TNSRE_2025.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSEN.2024.3441619
+  title: 'Design and Implementation of Electroacupuncture: A Study of Prefrontal EEG
+    Characteristics Under taVNS'
+  authors:
+  - Lixian Zhu
+  - Yanan Zhao
+  - Xiaokun Jin
+  - Fuze Tian
+  - Jingxin Liu
+  - Ran Cai
+  - Qunxi Dong
+  - Peijing Rong
+  - Bin Hu
+  publisher: IEEE Sensors Journal
+  date: '2024-10-15'
+  link: https://doi.org/g9hvd3
+  description: 'Transcutaneous auricular vagus nerve stimulation (taVNS), as a method
+    for mimicking VNS, has been proven effective in the treatment of psychiatric disorders.
+    However, the underlying mechanism through which taVNS mimics VNS remains elusive.
+    Moreover, the parameters of taVNS are singularly fixed and open loop in previous
+    work, which is difficult to apply to all users as individual differences are inevitable.
+    Since electroencephalogram (EEG) is one of the important biomarkers of neural
+    activity, this study aims to develop a closed-loop system for personalized interventions
+    in emotion regulation by integrating taVNS with EEG feedback. We first design
+    a taVNS system based on EEG signal feedback and verify the performance metrics
+    of the system. Second, we design experimental paradigms to explore the changes
+    in EEG features under the taVNS. The experimental results show that the EEG characteristics
+    differ between different taVNS frequencies (between 50 and 100 Hz). Moreover,
+    we observe substantial distinctions between EEG characteristics during the taVNS
+    state and the resting state, with pre-taVNS, taVNS, and post-taVNS exhibiting
+    notable differences. Specifically, the power spectral density (PSD) in the taVNS
+    state is lower than in the resting state ( p<0.05 ), except for the beta band
+    where the opposite trend is observed. Additionally, features such as Lempel-Ziv
+    complexity (LZC) and Reyi entropy (REn) displayed a decreasing trend throughout
+    the taVNS ( p<0.05 ). Furthermore, we employ hidden Markov models (HMMs) to reveal
+    the heterogeneity of dynamic changes in the brain during taVNS, providing a mechanistic
+    interpretation of taVNS.
+
+    '
+  image: images/JSEN_2024.jpg
+  plugin: sources.py
+  file: sources.yaml
+- description: 'Early Access:Machine-Learning Enabled Reusable Adhesion, Entangled
+    NetworkBased Hydrogel for Long-Term, High-Fidelity EEG Recording and Attention
+    Assessment
+
+    '
+  plugin: sources.py
+  file: sources.yaml
