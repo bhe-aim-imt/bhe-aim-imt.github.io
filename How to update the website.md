@@ -30,24 +30,20 @@
 
 - ![教程图1](images/教程图1.png)
 
-  - ```
-    ---
-    title: Devices
-    nav:
-      order: 2
-      tooltip: Devices
-    ---
-    
-  - ```
-<ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
-  
-  <li style="margin-bottom: 15px; line-height: 1.5;">便携式光电双模精神健康智能诊疗系统</li>
-  
-  ![便携式光电双模精神健康智能诊疗系统](images/便携式光电双模精神健康智能诊疗系统.jpg)
+```html
+---
+title: Devices
+nav:
+  order: 2
+  tooltip: Devices
+---
 
+<ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
+  <li style="margin-bottom: 15px; line-height: 1.5;">便携式光电双模精神健康智能诊疗系统</li>
+  ![便携式光电双模精神健康智能诊疗系统](images/便携式光电双模精神健康智能诊疗系统.jpg)
   <li style="margin-bottom: 15px; line-height: 1.5;"> 便携式光电双模精神健康智能诊疗系统</li>
 </ol>
- ``` 
+```
     -----------------------------解释如下----------------------------------
     
     -> title 用于指定当前页面的标题为 “Devices” 。在网页中，这个标题会显示在右上角
@@ -63,4 +59,4 @@
     -> line-height: 1.5 表示行高为 1.5 倍字体高度，“光电精神状态评估和闭环干预系统” 是该列表项的文本内容。
     -> 放图片： ![便携式光电双模精神健康智能诊疗系统](images/便携式光电双模精神健康智能诊疗系统.jpg)，要和前后的文字空一行，下面有下划线才说明是图片，不然会被识别成文字
 
-  ```
+  
