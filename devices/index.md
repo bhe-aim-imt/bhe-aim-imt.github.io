@@ -9,18 +9,18 @@ nav:
   <li style="margin-bottom: 15px; line-height: 1.5;">光电精神状态评估和闭环干预系统</li>
   
   <div style="text-align:center;">
-    <img src="../images/光电精神状态评估和闭环干预系统.jpg" alt="光电精神状态评估和闭环干预系统" style="width:60%;">
+    <img src="../images/光电精神状态评估和闭环干预系统.jpg" alt="光电精神状态评估和闭环干预系统" style="width:50%;">
   </div>
   
   <li style="margin-bottom: 15px; line-height: 1.5;">便携式光电双模精神健康智能诊疗系统</li>
   
   <div style="text-align:center;">
-    <img src="../images/便携式光电双模精神健康智能诊疗系统.jpg" alt="便携式光电双模精神健康智能诊疗系统" style="width:60%;">
+    <img src="../images/便携式光电双模精神健康智能诊疗系统.jpg" alt="便携式光电双模精神健康智能诊疗系统" style="width:50%;">
   </div>
 
   <li style="margin-bottom: 15px; line-height: 1.5;">体音采集系统</li>
  <div style="text-align:center;">
-     <img src="../images/无线体音采集系统2.jpg" alt="体音采集过程" style="zoom: 30%;">
+     <img src="../images/无线体音采集系统2.jpg" alt="体音采集过程" style="width:50%;">
 </div>
 
 
