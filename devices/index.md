@@ -19,12 +19,10 @@ nav:
   </div>
 
   <li style="margin-bottom: 15px; line-height: 1.5;">体音采集系统</li>
-<div style="overflow: auto;">
-  <div style="float: left; width: 48%; margin-right: 2%;">
-    <img src="../images/无线体音采集系统1.jpg" alt="无线体音采集系统图片" style="width: 40%;">
-  </div>
-  <div style="float: left; width: 48%;">
-    <img src="../images/无线体音采集系统2.jpg" alt="体音采集过程" style="width: 40%;">
-  </div>
+ <div style="text-align:center;">
+     <img src="../images/无线体音采集系统2.jpg" alt="体音采集过程" style="width: 60%;">
 </div>
+
+
+
 </ol>
