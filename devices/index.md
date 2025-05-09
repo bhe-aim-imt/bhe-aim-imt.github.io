@@ -14,6 +14,7 @@ nav:
 
   <li style="margin-bottom: 15px; line-height: 1.5;">体音采集系统</li>
   ![无线体音采集系统图片](images/无线体音采集系统1.jpg) 
+  
   ![体音采集过程](images/无线体音采集系统2.jpg)
 
 </ol>
