@@ -39,10 +39,14 @@
     ---
     
     
-    <ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
-      <li style="margin-bottom: 15px; line-height: 1.5;">光电精神状态评估和闭环干预系统</li>
-      <li style="margin-bottom: 15px; line-height: 1.5;"> 便携式光电双模精神健康智能诊疗系统</li>
-    </ol>
+<ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
+  
+  <li style="margin-bottom: 15px; line-height: 1.5;">便携式光电双模精神健康智能诊疗系统</li>
+  
+  ![便携式光电双模精神健康智能诊疗系统](images/便携式光电双模精神健康智能诊疗系统.jpg)
+
+  <li style="margin-bottom: 15px; line-height: 1.5;"> 便携式光电双模精神健康智能诊疗系统</li>
+</ol>
     
     -----------------------------解释如下----------------------------------
     
@@ -57,6 +61,6 @@
     -> font-family: Arial, sans-serif 则指定列表文字的字体为 Arial 或系统默认的 sans-serif 字体
     -> style 属性设置了 margin-bottom: 15px 即列表项底部外边距为 15 像素
     -> line-height: 1.5 表示行高为 1.5 倍字体高度，“光电精神状态评估和闭环干预系统” 是该列表项的文本内容。
-    ```
+    -> 放图片： ![便携式光电双模精神健康智能诊疗系统](images/便携式光电双模精神健康智能诊疗系统.jpg)，要和前后的文字空一行，下面有下划线才说明是图片，不然会被识别成文字
 
     
