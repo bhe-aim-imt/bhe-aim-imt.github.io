@@ -22,10 +22,10 @@ nav:
   
   <div style="display:flex; justify-content:space-between;">
     <div style="width:48%;">
-      <img src="../images/无线体音采集系统1.jpg" alt="无线体音采集系统图片" style="width:100%;">
+      <img src="../images/无线体音采集系统1.jpg" alt="无线体音采集系统图片" style="width:40%;">
     </div>
     <div style="width:48%;">
-      <img src="../images/无线体音采集系统2.jpg" alt="体音采集过程" style="width:100%;">
+      <img src="../images/无线体音采集系统2.jpg" alt="体音采集过程" style="width:40%;">
     </div>
   </div>
 </ol>
