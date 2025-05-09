@@ -20,7 +20,7 @@ nav:
 
   <li style="margin-bottom: 15px; line-height: 1.5;">体音采集系统</li>
  <div style="text-align:center;">
-     <img src="../images/无线体音采集系统2.jpg" alt="体音采集过程" style="width: 30%;">
+     <img src="../images/无线体音采集系统2.jpg" alt="体音采集过程" style="zoom: 30%;">
 </div>
 
 
