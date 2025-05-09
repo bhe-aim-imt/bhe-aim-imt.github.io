@@ -20,12 +20,12 @@ nav:
 
   <li style="margin-bottom: 15px; line-height: 1.5;">体音采集系统</li>
   
-  <div style="display:flex; justify-content:space-between;">
-    <div style="width:20%;">
-      <img src="../images/无线体音采集系统1.jpg" alt="无线体音采集系统图片" style="width:20%;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 48%;">
+      <img src="../images/无线体音采集系统1.jpg" alt="无线体音采集系统图片" style="width: 100%;">
     </div>
-    <div style="width:20%;">
-      <img src="../images/无线体音采集系统2.jpg" alt="体音采集过程" style="width:20%;">
+    <div style="width: 48%;">
+      <img src="../images/无线体音采集系统2.jpg" alt="体音采集过程" style="width: 100%;">
     </div>
   </div>
 </ol>
