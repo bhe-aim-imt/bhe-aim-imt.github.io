@@ -72,6 +72,7 @@ nav:
 
 ## 三、team部分更新
 - 1、 **上传新同学信息**
+  - 在/images中上传同学的照片
   - 在/_members文件夹下新增md文件，格式如下：
   
   ```html
@@ -89,3 +90,19 @@ nav:
 
   Xiaoxi Liu is expected to receive her B.S. degree in Software Engineering from the School of Software, Shandong University, Jinan, China, in   June 2025. She has been accepted into the School of Medical Technology at Beijing Institute of Technology, Beijing, China, to pursue a  Master's degree. Her current research interests include reinforcement learning, deep learning, and generative artificial intelligence.
   ```
+  解释如下：
+  ![教程图2](images/教程图2.png)
+- 2、 **页面布局调整**
+  - 修改/team/index.md中的内容以调整同学的顺序，例如当前顺序为博士生、硕士生、本科生（内部按照年级依次排列），则相应代码顺序为：
+  
+  ```html
+  {% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2023'" %}
+  {% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2024'" %}
+  {% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2023'" %}
+  {% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2024'" %}
+  {% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2025'" %}
+  {% include list.html data="members" component="portrait" filter="role == 'undergrad' and description == 'Bachelor Student, 2022'" %}
+  {% include list.html data="members" component="portrait" filter="role == 'undergrad' and description == 'Bachelor Student, 2023'" %}
+  {% include list.html data="members" component="portrait" filter="role == 'undergrad' and description == 'Bachelor Student, 2024'" %}
+  ```
+  当前按照角色和描述这两个属性进行筛选。可根据需要调整。
