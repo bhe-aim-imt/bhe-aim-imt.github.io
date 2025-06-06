@@ -71,4 +71,21 @@ nav:
         - 如果是devices文件夹中的md文件，需要写![教程图1](../images/教程图1.png)
 
 ## 三、team部分更新
-- 1、 **上传新同学信息**  
+- 1、 **上传新同学信息**
+  - 在/_members文件夹下新增md文件，格式如下：
+  
+  ```html
+  ---
+  name: Xiaoxi Liu
+  image: images/lxx.png
+  role: master
+  description: Master Student, 2025
+  aliases:
+    - Xiaoxi Liu
+    - Liu Xiaoxi
+  links:
+    email: liuxx16@mail.sdu.edu.cn
+  ---
+
+  Xiaoxi Liu is expected to receive her B.S. degree in Software Engineering from the School of Software, Shandong University, Jinan, China, in   June 2025. She has been accepted into the School of Medical Technology at Beijing Institute of Technology, Beijing, China, to pursue a  Master's degree. Her current research interests include reinforcement learning, deep learning, and generative artificial intelligence.
+  ```
