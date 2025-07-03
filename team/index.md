@@ -24,6 +24,6 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and description == 'Bachelor Student, 2023'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and description == 'Bachelor Student, 2024'" %}
 
+<h2 style="text-align: center;">Visiting student</h2>
 <h2 style="text-align: center;">Graduate</h2>
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and description == 'Bachelor Student, 2021'" %}
-<h2 style="text-align: center;">Visiting student</h2>
