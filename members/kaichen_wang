@@ -582,10 +582,10 @@
     
       
         <a
-          href="/devices/"
-          data-tooltip="Devices"
+          href="/thesis/"
+          data-tooltip="In-Progress Thesis and Completed Thesis"
         >
-          Devices
+          Thesis
         </a>
       
     
@@ -600,10 +600,10 @@
     
       
         <a
-          href="/thesis/"
-          data-tooltip="In-Progress Thesis and Completed Thesis"
+          href="/devices/"
+          data-tooltip="Devices"
         >
-          Thesis
+          Devices
         </a>
       
     
