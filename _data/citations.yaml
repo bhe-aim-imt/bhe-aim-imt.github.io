@@ -151,8 +151,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMC.2025.3547842
-  title: An AI-assisted All-in-one Integrated Coronary Artery Disease Diagnosis System
-    Using a Portable Heart Sound Sensor with an On-board Executable Lightweight Model
+  title: An AI-Assisted All-in-One Integrated Coronary Artery Disease Diagnosis System
+    Using a Portable Heart Sound Sensor With an On-Board Executable Lightweight Model
   authors:
   - Haojie Zhang
   - Fuze Tian
@@ -167,7 +167,7 @@
   - "Bj\xF6rn W. Schuller"
   - Yoshiharu Yamamoto
   publisher: IEEE Transactions on Mobile Computing
-  date: '2025-01-01'
+  date: '2025-08-01'
   link: https://doi.org/g864n5
   description: 'Heart sounds play a crucial role in assessing Coronary Artery Disease
     (CAD). The advancement of Artificial Intelligence (AI) technologies has given
