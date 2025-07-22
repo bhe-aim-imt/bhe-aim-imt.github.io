@@ -427,14 +427,45 @@
   image: images/TAFFC_2025.jpg
   plugin: sources.py
   file: sources.yaml
-- description: ''
-  "Early Access\uFF1AExploring the Alleviating Effects of taVNS on Negative Emotions": An
-    EEG Study doi:10.1109/TCSS.2025.3564035
-  plugin: sources.py
-  file: sources.yaml
-- description: "Early Access\uFF1AMDH-NAS: Accelerating EEG Signal Classification\
-    \ with Mixed-Level Differentiable and Hardware-Aware Neural Architecture Search\
-    \ doi:10.1109/JIOT.2025.3553450\n"
+- id: doi:10.1109/TCSS.2025.3564035
+  title: 'Exploring the Alleviating Effects of taVNS on Negative Emotions: An EEG
+    Study'
+  authors:
+  - Xiaokun Jin
+  - Chengcheng Zheng
+  - Mingyue Jin
+  - Qunxi Dong
+  - Lixian Zhu
+  - Fuze Tian
+  publisher: IEEE Transactions on Computational Social Systems
+  date: '2025-01-01'
+  link: https://doi.org/g9tt3t
+  description: 'Emotion inhibitory control is a key executive function of the human
+    brain, which regulates behavior by suppressing inappropriate responses. It plays
+    an integral part in alleviating negative emotions, improving mood, and preventing
+    depression. Transcutaneous auricular vagus nerve stimulation (taVNS) has been
+    proved to enhance behavioral control, potentially suppressing negative emotions
+    or facilitating their reduction in healthy individuals. However, the neurocomputational
+    mechanisms underlying taVNS-induced neuroenhancement remain unclear. In this work,
+    a portable electroencephalography (EEG) acquisition and stimulation device is
+    designed to collect eight-channel EEG signals and deliver taVNS to both sides
+    of ears. Then, we design a protocol that successfully induced negative emotions
+    in healthy subjects. Next, we conduct a sham-controlled experiment, involving
+    28 healthy subjects, to explore the changes in EEG of negative emotions under
+    taVNS. Finally, we primarily analyze the power spectrum density (PSD) of EEG signals
+    and the functional connectivity network of the brain, based on the phase locking
+    value (PLV), to assess the effect of taVNS on neural activity induced by negative
+    emotions. The results of the experiment reveal that taVNS is a promising method
+    for enhancing emotional inhibitory control by reducing PSD in the alpha band and
+    enhancing PLV within prefrontal inhibitory control networks. In addition, differences
+    in graph theory parameters between the Sham and taVNS conditions indicate that
+    taVNS helps regulate negative emotions. In conclusion, this study demonstrates
+    that taVNS enhances inhibitory control and reveals its neurocomputational mechanisms
+    of EEG in healthy individuals during the development of negative emotions. And
+    results indicate that taVNS could serve as a promising neuromodulation therapy
+    for psychiatric disorders and individuals with depression or emotional distress.
+
+    '
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TNSRE.2025.3557275
@@ -519,12 +550,5 @@
 
     '
   image: images/JSEN_2024.jpg
-  plugin: sources.py
-  file: sources.yaml
-- description: 'Early Access:Machine-Learning Enabled Reusable Adhesion, Entangled
-    NetworkBased Hydrogel for Long-Term, High-Fidelity EEG Recording and Attention
-    Assessment
-
-    '
   plugin: sources.py
   file: sources.yaml
