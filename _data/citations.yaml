@@ -552,3 +552,41 @@
   image: images/JSEN_2024.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/s40820-025-01780-7
+  title: Machine Learning Enabled Reusable Adhesion, Entangled Network-Based Hydrogel
+    for Long-Term, High-Fidelity EEG Recording and Attention Assessment
+  authors:
+  - Kai Zheng
+  - Chengcheng Zheng
+  - Lixian Zhu
+  - Bihai Yang
+  - Xiaokun Jin
+  - Su Wang
+  - Zikai Song
+  - Jingyu Liu
+  - Yan Xiong
+  - Fuze Tian
+  - Ran Cai
+  - Bin Hu
+  publisher: Nano-Micro Letters
+  date: '2025-05-29'
+  link: https://doi.org/g9tt34
+  description: "Due to their high mechanical compliance and excellent biocompatibility,\
+    \ conductive hydrogels exhibit significant potential for applications in flexible\
+    \ electronics. However, as the demand for high sensitivity, superior mechanical\
+    \ properties, and strong adhesion performance continues to grow, many conventional\
+    \ fabrication methods remain complex and costly. Herein, we propose a simple and\
+    \ efficient strategy to construct an entangled network hydrogel through a liquid\u2013\
+    metal-induced cross-linking reaction, hydrogel demonstrates outstanding properties,\
+    \ including exceptional stretchability (1643%), high tensile strength (366.54\
+    \ kPa), toughness (350.2 kJ m\u22123), and relatively low mechanical hysteresis.\
+    \ The hydrogel exhibits long-term stable reusable adhesion (104 kPa), enabling\
+    \ conformal and stable adhesion to human skin. This capability allows it to effectively\
+    \ capture high-quality epidermal electrophysiological signals with high signal-to-noise\
+    \ ratio (25.2 dB) and low impedance (310 ohms). Furthermore, by integrating advanced\
+    \ machine learning algorithms, achieving an attention classification accuracy\
+    \ of 91.38%, which will significantly impact fields like education, healthcare,\
+    \ and artificial intelligence.\n"
+  image: images/nano_2025.png
+  plugin: sources.py
+  file: sources.yaml
