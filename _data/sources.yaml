@@ -111,14 +111,16 @@
    In noninvasive brain-computer interfaces (BCIs), EEG analysis plays a critical role, with neural networks serving as a cornerstone for signal decoding. Existing neural network approaches for EEG signal recognition require extensive manual design and hyperparameter tuning, leading to inefficiencies and making them impractical for embedded devices due to their large model size. To address these limitations, we propose mixed-level differentiable and hardware-aware neural architecture search (MDH-NAS), a framework that automatically generates lightweight neural networks tailored for EEG classification. Unlike traditional DARTS methods, MDH-NAS employs a hybrid optimization strategy that balances global and local search spaces, thereby accelerating and refining architecture discovery. It introduces explicit size constraints during the search process to ensure deployability on embedded devices. MDH-NAS demonstrates autonomous generation of architectures for tasks such as motor imagery (MI) and depression recognition, achieving 87.80% accuracy on the BCI-IV dataset and 90.09% on the MODMA dataset. When deployed on the EAIDK-610 board across heterogeneous tasks, it attains 85.37% accuracy on the EEG Motor Movement/Imagery dataset. This method reduces architecture discovery time by 89% and enhances prediction accuracy by 8.70% compared to baseline methods, highlighting its potential for scalable EEG analysis and real-world embedded deployment.
   image: images/IoT_2025.png
 
-- description: |
-   Somatisation Disorder (SD) is a serious mental
-health condition with the difficulty of clinical diagnosis due to
-the limitations of subjective assessment methods and the lack
-of objective biomarkers. In this work, we introduce an effective
-multi-stream fusion strategy and an improved ResNet model for
-SD recognition. The model combines the WavLM and ResNet
-architectures. The results show that our model achieves 36.8%
-accuracy on the considered quaternary classification task. Based
-on the proposed model, we likewise realise effective and robust
-recognition of SD.
+#- id: doi:#xxx
+#  description: |
+#   Somatisation Disorder (SD) is a serious mental
+#health condition with the difficulty of clinical diagnosis due to
+#the limitations of subjective assessment methods and the lack
+#of objective biomarkers. In this work, we introduce an effective
+#multi-stream fusion strategy and an improved ResNet model for
+#SD recognition. The model combines the WavLM and ResNet
+#architectures. The results show that our model achieves 36.8%
+#accuracy on the considered quaternary classification task. Based
+#on the proposed model, we likewise realise effective and robust
+#recognition of SD.
+#image: images/GCCE_2025.png
