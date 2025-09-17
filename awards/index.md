@@ -23,5 +23,5 @@ nav:
 
 ## 2022
 <ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
-  <li style="margin-bottom: 15px; line-height: 1.5;">Ruobing LI, Cheng ZHANG, Zechao LV, Yushi ZHU, Mengxuan HU, Han FENG, and Tianhao JIA, The 13th Challenge Cup Students’ Business Plan Competition, Silver Award (University Level), Beijing Institute of Technology, China, July 2022.</li>
+  <li style="margin-bottom: 15px; line-height: 1.5;">Ruobing Li, Cheng Zhang, Zechao Lv, Yushi Zhu, Mengxuan Hu, Han Feng, and Tianhao Jia, The 13th Challenge Cup Students’ Business Plan Competition, Silver Award (University Level), Beijing Institute of Technology, China, July 2022.</li>
 </ol>
