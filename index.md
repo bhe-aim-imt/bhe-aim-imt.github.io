@@ -7,6 +7,10 @@ Welcome to bhe-aim-imt website! Relying on The Key Laboratory of Brain Health In
 
 {% include section.html %}
 
+Multimodal Semantic Alignment: This direction focuses on aligning the deep semantics between audio signals and brain signals (e.g., EEG) to provide core support for precise and personalized intelligent interventions. We emphasize exploring cross-modal representation learning, semantic embedding, and alignment techniques, laying a solid foundation for subsequent intervention strategy generation.
+Reinforcement Learning: This direction specializes in using reinforcement learning (RL) to dynamically optimize audio intervention strategies, aiming to tailor and adjust the most effective intervention plan in real time for each user. The ultimate goal is to build a closed-loop interactive, continuously learning, and maximally effective intelligent audio intervention system that is both personalized and precise.
+Generative Models: This research direction uses advanced generative AI to create new and helpful therapeutic audio. We work with different modern techniques, such as generative adversarial networks (GANs) and diffusion models. Our goal is not only to make the generated audio clear and comfortable to listen to, but also to test and improve its healing effects through scientific methods. We aim to provide practical and new solutions for brain health.
+
 ## Highlights
 
 {% capture text %}
