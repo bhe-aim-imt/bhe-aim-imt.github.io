@@ -629,29 +629,3 @@
   image: images/IoT_2025.png
   plugin: sources.py
   file: sources.yaml
-- description: 'Speech Emotion Recognition (SER), a key emotion analysis technology,
-    has shown significant value in various research areas. Previous SER models have
-    achieved good emotion recognition accuracy, but typical centrally-based training
-    requires centralised processing of speech data, which has a serious risk of privacy
-    leakage. Federated learning (FL) can avoid centralised data processing through
-    distributed learning, providing a solution for privacy protection in SER. However,
-    FL faces several challenges in practical applications, including imbalanced data
-    distribution and inconsistent labelling. Furthermore, typical FL frameworks focus
-    on client-side enhancement and ignore server-side aggregation strategy optimisation,
-    which can increase the computational load on the client side. To address the aforementioned
-    problems, we propose a novel approach, FedVCPL-Diff. Firstly, regarding information
-    fusion, we introduce a diffusion model on the server side to generate Valence-Arousal-Dominance
-    emotion space features, which replaces the typical aggregation framework and effectively
-    promotes global information fusion. In addition, in terms of information exchange,
-    we propose a lightweight and personalised FL transmission framework based on the
-    exchange of VAD features. FedVCPL-Diff optimises the local model by updating the
-    data distribution anchors, which not only avoids the privacy risk but also reduces
-    the communication cost. Experimental results show that the framework significantly
-    improves emotion recognition performance compared to four commonly used FL frameworks.
-    The overall performance of our framework also shows a significant advantage compared
-    to locally independent models.
-
-    '
-  image: images/IF_2025.png
-  plugin: sources.py
-  file: sources.yaml
