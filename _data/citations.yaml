@@ -38,7 +38,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCE.2024.3514633
-  title: A First Look at Generative Artificial Intelligence Based Music Therapy for
+  title: A First Look at Generative Artificial Intelligence-Based Music Therapy for
     Mental Disorders
   authors:
   - Lin Shen
@@ -387,7 +387,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAFFC.2025.3557873
-  title: 'Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-based
+  title: 'Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-Based
     Closed-Loop Music Intervention System'
   authors:
   - Lin Shen
@@ -400,7 +400,7 @@
   - "Bj\xF6rn W. Schuller"
   - Yoshiharu Yamamoto
   publisher: IEEE Transactions on Affective Computing
-  date: '2025-01-01'
+  date: '2025-07-01'
   link: https://doi.org/g9dk2w
   description: 'Mental disorders have increased rapidly and have emerged as a serious
     social health issue in the recent decade. Undoubtedly, the timely treatment of
@@ -438,7 +438,7 @@
   - Lixian Zhu
   - Fuze Tian
   publisher: IEEE Transactions on Computational Social Systems
-  date: '2025-01-01'
+  date: '2025-12-01'
   link: https://doi.org/g9tt3t
   description: 'Emotion inhibitory control is a key executive function of the human
     brain, which regulates behavior by suppressing inappropriate responses. It plays
