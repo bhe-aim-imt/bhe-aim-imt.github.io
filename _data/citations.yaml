@@ -591,8 +591,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.inffus.2025.103745
-  title: 'FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with
-    a Diffusion Model for Speech Emotion Recognition'
+  title: 'FedVCPL-Diff: A federated convolutional prototype learning framework with
+    a diffusion model for speech emotion recognition'
   authors:
   - Ruobing Li
   - Yifan Feng
@@ -604,7 +604,7 @@
   - Yoshiharu Yamamoto
   - "Bj\xF6rn W. Schuller"
   publisher: Information Fusion
-  date: '2025-09-01'
+  date: '2026-03-01'
   link: https://doi.org/g94k7c
   description: 'Speech Emotion Recognition (SER), a key emotion analysis technology,
     has shown significant value in various research areas. Previous SER models have
