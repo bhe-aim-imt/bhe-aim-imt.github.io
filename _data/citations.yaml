@@ -591,8 +591,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.inffus.2025.103745
-  title: 'FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with
-    a Diffusion Model for Speech Emotion Recognition'
+  title: 'FedVCPL-Diff: A federated convolutional prototype learning framework with
+    a diffusion model for speech emotion recognition'
   authors:
   - Ruobing Li
   - Yifan Feng
@@ -604,7 +604,7 @@
   - Yoshiharu Yamamoto
   - "Bj\xF6rn W. Schuller"
   publisher: Information Fusion
-  date: '2025-09-01'
+  date: '2026-03-01'
   link: https://doi.org/g94k7c
   description: 'Speech Emotion Recognition (SER), a key emotion analysis technology,
     has shown significant value in various research areas. Previous SER models have
@@ -669,5 +669,80 @@
 
     '
   image: images/IoT_2025.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/GCCE65946.2025.11275046
+  title: Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced
+    ResNet
+  authors:
+  - Zhijing Cao
+  - Lin Shen
+  - Liuxian Ma
+  - Xiaoxi Liu
+  - Haojie Zhang
+  - Yongxin Zhang
+  - Yilu Deng
+  - Kun Qian
+  - Ruolan Huang
+  - Toru Nakamura
+  - Bin Hu
+  - "Bj\xF6rn W. Schuller"
+  - Yoshiharu Yamamoto
+  publisher: 2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)
+  date: '2025-09-23'
+  link: https://doi.org/hbnddr
+  description: 'Somatisation Disorder (SD) is a serious mental health condition with
+    the difficulty of clinical diagnosis due to the limitations of subjective assessment
+    methods and the lack of objective biomarkers. In this work, we introduce an effective
+    multi-stream fusion strategy and an improved ResNet model for SD recognition.
+    The model combines the WavLM and ResNet architectures. The results show that our
+    model achieves 36.8% accuracy on the considered quaternary classification task.
+    Based on the proposed model, we likewise realise effective and robust recognition
+    of SD.
+
+    '
+  image: images/GCCE_2025.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bspc.2026.109449
+  title: 'Breaking through data scarcity: A novel diffusion model approach for snoring
+    sound augmentation and classification'
+  authors:
+  - Tianrui Jia
+  - Haojie Zhang
+  - Hanhan Wu
+  - Qiyang Sun
+  - Xin Jing
+  - Boyang Meng
+  - Lin Shen
+  - Liang Wang
+  - Kun Qian
+  - Ye Zhang
+  - Bin Hu
+  - Tanja Schultz
+  - "Bj\xF6rn W. Schuller"
+  - Yoshiharu Yamamoto
+  publisher: Biomedical Signal Processing and Control
+  date: '2026-05-01'
+  link: https://doi.org/hbndds
+  description: "Snoring can stem from various upper regions of the upper airways \u2013\
+    \ the excitation location is closely linked to the unique acoustic characteristics\
+    \ of snore sounds, playing a vital role in sleep monitoring. The Munich-Passau\
+    \ Snore Sound Corpus (MPSSC) is the largest database for snoring-based auxiliary\
+    \ diagnosis, offering valuable data for sleep disorder research and diagnosis.\
+    \ However, in MPSSC, there are issues such as the small total number of samples\
+    \ and the uneven sample distribution. Some rare diseases have only a few case\
+    \ samples, failing to meet the need for sufficient learning data. To address these\
+    \ issues, we propose an end-to-end method for high-quality snoring audio generation\
+    \ for data augmentation. This method includes a Rectified-Flow-based 1D-signal\
+    \ diffusion model that enhances data across all classes, combined with an audio-based\
+    \ single diffusion model to enhance rare classes. Under our data augmentation\
+    \ framework, higher specificity, sensitivity, and accuracy are achieved in Automatic\
+    \ Snoring Sound Classification (ASSC). Also, we focus on the explicitness of classification\
+    \ strategies, aiming to prove the enhanced data\u2019s high quality and applicability\
+    \ to downstream tasks. Our work provides comprehensive support for ASSC, enhancing\
+    \ sleep disorder diagnosis assistance offering new ideas for database research\
+    \ under scarce medical data conditions.\n"
+  image: images/BSPC_2025.png
   plugin: sources.py
   file: sources.yaml
