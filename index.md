@@ -23,7 +23,7 @@ This research direction uses advanced generative AI to create new and helpful th
 
 {% capture text %}
 
-Our new paper entitled “Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-based Closed-Loop Music Intervention System” has been accepted and published online by the IEEE Transactions on Affective Computing (IF-2023: 9.6).
+Our new paper entitled “Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion" has been accepted and published online by the IEEE Transactions on Multimedia (IF-2024: 9.7)!
 
 {%
   include button.html
