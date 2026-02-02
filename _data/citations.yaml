@@ -746,3 +746,12 @@
   image: images/BSPC_2025.png
   plugin: sources.py
   file: sources.yaml
+- title: Some Publication Title
+  authors:
+  - '**Steve McQueen**'
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: '2021-01-01'
+  link: biorxiv.org/1234
+  plugin: sources.py
+  file: sources.yaml
