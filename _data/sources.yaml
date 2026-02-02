@@ -135,10 +135,10 @@
 #   image: images/TMM_2025.png
 
 # # manually provide all citation details
-# - title: Some Publication Title
-#   authors:
-#     - "**Steve McQueen**"
-#     - Lightning McQueen
-#   publisher: bioRxiv
-#   date: 2021-01-01
-#   link: biorxiv.org/1234
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
