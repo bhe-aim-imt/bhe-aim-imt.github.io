@@ -28,5 +28,6 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and description == 'Visiting Student, 2025'" %}
 <h2 style="text-align: center;">Graduate</h2>
 {% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2023'" %}
+{% include list.html data="members" component="portrait" filter="name =='Trajko Todosov'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and description == 'Bachelor Student, 2022'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and description == 'Bachelor Student, 2021'" %}
