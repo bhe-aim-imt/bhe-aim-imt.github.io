@@ -1,8 +1,8 @@
 ---
 name: Jing Wang
 image: images/wj.jpg
-role: undergrad
-description: Visiting Student, 2025
+role: master
+description:Master Student, 2026
 aliases:
   - Jing Wang
 links:
