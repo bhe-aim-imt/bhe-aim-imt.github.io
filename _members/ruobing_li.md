@@ -7,6 +7,7 @@ aliases:
   - Ruobing Li
 links:
   email: ruobing.li@bit.edu.cn
+  home-page: https://ruobingli1103.github.io/
 ---
 
 Ruobing Li received the B.S. degree from School of Medical Technology, Beijing Institute of Technology, Beijing, China, in 2024. She is currently pursuing the Ph.D. degree with the School of Medical Technology, Beijing Institute of Technology, Beijing, China. Her research interests include Affective Computing and Speech Processing.
