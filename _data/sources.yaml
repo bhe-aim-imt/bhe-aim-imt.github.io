@@ -140,6 +140,14 @@
 #   ACMMM wkc
 #   image: images/xxx.png
 
+- title: Some Publication Title
+  authors:
+    - "**Steve McQueen**"
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
+
 # # # manually provide all citation details 
 # - title: Some Publication Title
 #   authors:
