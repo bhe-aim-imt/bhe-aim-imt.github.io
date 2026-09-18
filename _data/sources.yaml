@@ -135,6 +135,11 @@
   image: images/TMM_2025.png
   date: 2026-06-19
 
+# - id: doi:xxx
+#   description: |
+#   ACMMM wkc
+#   image: images/xxx.png
+
 # # # manually provide all citation details 
 # - title: Some Publication Title
 #   authors:
