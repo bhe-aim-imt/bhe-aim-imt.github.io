@@ -457,26 +457,26 @@
     
     
       
-        <a href="/team/" data-tooltip="About our team">
-          Team
-        </a>
-      
-    
-      
         <a href="/research/" data-tooltip="Published works">
           Research
         </a>
       
     
       
-        <a href="/devices/" data-tooltip="Devices">
-          Devices
+        <a href="/team/" data-tooltip="About our team">
+          Team
         </a>
       
     
       
         <a href="/thesis/" data-tooltip="In-Progress Thesis and Completed Thesis">
           Thesis
+        </a>
+      
+    
+      
+        <a href="/devices/" data-tooltip="Devices">
+          Devices
         </a>
       
     
@@ -531,6 +531,51 @@
 <div class="search-info"></div>
 
 <h3 id="2026">2026</h3>
+
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://doi.org/hb77sf" class="citation-image" aria-label="Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion">
+        <img src="/images/TMM_2025.png" alt="Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
+
+    <div class="citation-text">
+      
+      
+
+      <a href="https://doi.org/hb77sf" class="citation-title">
+        Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Lin Shen, Ruobing Li, Xiaoxi Liu, Haojie Zhang, Cuiping Zhu, Kun Qian, Fuze Tian, Bin Hu, Björn W. Schuller, Yoshiharu Yamamoto
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">IEEE Transactions on Multimedia</span>
+         · 
+        <span class="citation-date">19 Jun 2026</span>
+         · 
+        <span class="citation-id">doi:10.1109/TMM.2026.3704863</span>
+      </div>
+
+      
+        
+          <div class="citation-description">
+            Recent advances in brain computer interface technology have spurred growing interest in reconstructing content directly from electroencephalogram~(EEG) signals. Researchers initially focused on reconstructing images and speech from EEG signals and have since extended their efforts to music reconstruction. Nonetheless, although prior works succeeded in reconstructing music from EEG signals, they ignored the relationship between EEG and music representations, resulting in reconstructions of limited fidelity and accuracy. To overcome these limitations, we introduce a novel pipeline for EEG-driven music reconstruction. The pipeline comprises two stages. In the first stage, we utilise the proposed EEG encoder and a pre-trained large-scale music encoder to obtain the EEG and music representation. Also, we devise a dedicated training paradigm for the EEG encoder that projects EEG and music embeddings into a shared latent space, thereby achieving robust cross-modal alignment. In the second stage, we develop an EEG-based diffusion-transformer ControlNet that employs the EEG and music embeddings as conditioning inputs for music generation. Comprehensive experiments show that our proposed EEG encoder, together with its dedicated training paradigm, achieves effective alignment between EEG and music representations. The proposed pipeline is capable of reconstructing music with high accuracy and quality. These contributions suggest a potential way towards non-invasive, brain-driven music generation.
+
+          </div>
+        
+
+        
+
+        
+      
+    </div>
+  </div>
+</div>
 
 <div class="citation-container">
   <div class="citation">
@@ -610,51 +655,6 @@
         
           <div class="citation-description">
             Speech Emotion Recognition (SER), a key emotion analysis technology, has shown significant value in various research areas. Previous SER models have achieved good emotion recognition accuracy, but typical centrally-based training requires centralised processing of speech data, which has a serious risk of privacy leakage. Federated learning (FL) can avoid centralised data processing through distributed learning, providing a solution for privacy protection in SER. However, FL faces several challenges in practical applications, including imbalanced data distribution and inconsistent labelling. Furthermore, typical FL frameworks focus on client-side enhancement and ignore server-side aggregation strategy optimisation, which can increase the computational load on the client side. To address the aforementioned problems, we propose a novel approach, FedVCPL-Diff. Firstly, regarding information fusion, we introduce a diffusion model on the server side to generate Valence-Arousal-Dominance emotion space features, which replaces the typical aggregation framework and effectively promotes global information fusion. In addition, in terms of information exchange, we propose a lightweight and personalised FL transmission framework based on the exchange of VAD features. FedVCPL-Diff optimises the local model by updating the data distribution anchors, which not only avoids the privacy risk but also reduces the communication cost. Experimental results show that the framework significantly improves emotion recognition performance compared to four commonly used FL frameworks. The overall performance of our framework also shows a significant advantage compared to locally independent models.
-
-          </div>
-        
-
-        
-
-        
-      
-    </div>
-  </div>
-</div>
-
-<div class="citation-container">
-  <div class="citation">
-    
-      <a href="https://doi.org/hb77sf" class="citation-image" aria-label="Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion">
-        <img src="/images/TMM_2025.png" alt="Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-      </a>
-    
-
-    <div class="citation-text">
-      
-      
-
-      <a href="https://doi.org/hb77sf" class="citation-title">
-        Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion
-      </a>
-
-      <div class="citation-authors" tabindex="0">
-        Lin Shen, Ruobing Li, Xiaoxi Liu, Haojie Zhang, Cuiping Zhu, Kun Qian, Fuze Tian, Bin Hu, Björn W. Schuller, Yoshiharu Yamamoto
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">IEEE Transactions on Multimedia</span>
-         · 
-        <span class="citation-date">01 Jan 2026</span>
-         · 
-        <span class="citation-id">doi:10.1109/TMM.2026.3704863</span>
-      </div>
-
-      
-        
-          <div class="citation-description">
-            Recent advances in brain computer interface technology have spurred growing interest in reconstructing content directly from electroencephalogram~(EEG) signals. Researchers initially focused on reconstructing images and speech from EEG signals and have since extended their efforts to music reconstruction. Nonetheless, although prior works succeeded in reconstructing music from EEG signals, they ignored the relationship between EEG and music representations, resulting in reconstructions of limited fidelity and accuracy. To overcome these limitations, we introduce a novel pipeline for EEG-driven music reconstruction. The pipeline comprises two stages. In the first stage, we utilise the proposed EEG encoder and a pre-trained large-scale music encoder to obtain the EEG and music representation. Also, we devise a dedicated training paradigm for the EEG encoder that projects EEG and music embeddings into a shared latent space, thereby achieving robust cross-modal alignment. In the second stage, we develop an EEG-based diffusion-transformer ControlNet that employs the EEG and music embeddings as conditioning inputs for music generation. Comprehensive experiments show that our proposed EEG encoder, together with its dedicated training paradigm, achieves effective alignment between EEG and music representations. The proposed pipeline is capable of reconstructing music with high accuracy and quality. These contributions suggest a potential way towards non-invasive, brain-driven music generation.
 
           </div>
         
