@@ -1,7 +1,7 @@
 ---
 name: Kaichen Wang
 image: images/wkc.jpg
-role: PhD
+role: phd
 description: PhD Student, 2026
 aliases:
   - Kaichen Wang
