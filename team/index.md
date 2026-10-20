@@ -15,7 +15,7 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2023'" %}
-{% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2024'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2024' and name != 'Vladimir Gurlev'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2025'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2026'" %}
 {% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2024' and name !='Trajko Todosov'" %}
@@ -32,3 +32,4 @@ nav:
 {% include list.html data="members" component="portrait" filter="name =='Trajko Todosov'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and description == 'Bachelor Student, 2022'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and description == 'Bachelor Student, 2021'" %}
+{% include list.html data="members" component="portrait" filter="name =='Vladimir Gurlev'" %}
